@@ -97,3 +97,5 @@ and deterministic textures created from user-controllable inputs. By
 leveraging Unity's Editor extensibility and built-in noise algorithms,
 it provides an efficient, fully in-engine alternative to manual texture
 creation workflows.
+## System In Action
+- https://youtu.be/5k7u5oahsDw
